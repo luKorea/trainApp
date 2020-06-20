@@ -19,14 +19,85 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="baa6ae87-cd54-499a-b710-98c7c3ce9234" name="默认的" comment="" />
+    <list default="true" id="baa6ae87-cd54-499a-b710-98c7c3ce9234" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/trainApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/query.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/ticket.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/index/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/index/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/index/actions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/index/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/index/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/index/reducers.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/index/store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/order/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/order/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/order/actions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/order/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/order/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/order/reducers.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/order/store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/query/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/query/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/query/actions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/query/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/query/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/query/reducers.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/query/store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/serviceWorker.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/ticket/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/ticket/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/ticket/actions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/ticket/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/ticket/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/ticket/reducers.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/ticket/store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/PWA技术组成.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/cache.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/service-worker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/config/paths.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/config/paths.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/config/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/config/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/react-app-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/client/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1dWCj3MjReWFJBckxJCKLZDAwLh" />
   <component name="ProjectLevelVcsManager">
@@ -38,17 +109,40 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.16.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/src" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files (x86)/nodejs/node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="ts.external.directory.path" value="D:\trainApp\client\node_modules\typescript\lib" />
+    <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\trainApp\client\src" />
       <recent name="D:\trainApp\docs" />
+      <recent name="D:\trainApp\client\src\baseTest\static" />
+      <recent name="D:\trainApp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\trainApp\client\src\baseTest\Lazy" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -61,7 +155,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592531593734</updated>
-      <workItem from="1592531596993" duration="3540000" />
+      <workItem from="1592531596993" duration="15097000" />
+      <workItem from="1592555685342" duration="3597000" />
+      <workItem from="1592614529924" duration="3825000" />
+      <workItem from="1592622861291" duration="2445000" />
+      <workItem from="1592625361606" duration="6327000" />
+      <workItem from="1592638443271" duration="664000" />
+      <workItem from="1592639548111" duration="281000" />
+      <workItem from="1592640243520" duration="4358000" />
     </task>
     <servers />
   </component>
@@ -78,18 +179,35 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="178" width="816" height="731" key="#意图" timestamp="1592532254244">
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592536247226">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="178" width="816" height="731" key="#意图/0.0.1920.1040@0.0.1920.1040" timestamp="1592532254244" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592536247226" />
+    <state x="552" y="178" width="816" height="779" key="#意图" timestamp="1592538706363">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" width="816" height="779" key="#意图/0.0.1920.1040@0.0.1920.1040" timestamp="1592538706363" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1592638172174">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592638172174" />
+    <state x="428" y="317" width="998" height="723" key="SettingsEditor" timestamp="1592642727656">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="428" y="317" width="998" height="723" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592642727656" />
     <state x="483" y="308" key="Vcs.Push.Dialog.v2" timestamp="1592534682361">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="483" y="308" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592534682361" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1592545532555">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592545532555" />
   </component>
 </project>

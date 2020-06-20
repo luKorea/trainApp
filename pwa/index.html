@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+  <link rel="stylesheet" href="./index.css">
+</head>
+<body>
+<h1>Hello ServiceWorker</h1>
+<script>
+  navigator.serviceWorker
+    .register('./index.js', {scope: '/'})
+  .then(res => console.log(res)).
+  catch(err => console.error(err))
+
+</script>
+
+</body>
+</html>
